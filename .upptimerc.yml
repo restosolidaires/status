@@ -8,11 +8,15 @@ sites:
     method: OPTIONS
     headers:
         - "Authorization: Bearer $AUTH_TOKEN_APP"
+    expectedStatusCodes:
+        - 204
+    location: Paris
+    delay: 3600000 # 1 hour
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: https://restosolidaires.fr
+  cname: restosolidaires.fr
   # baseUrl: /your-repo-name
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: RestoSolidaires
