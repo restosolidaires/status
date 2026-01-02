@@ -1,7 +1,7 @@
-url: $BACKEND_URL
-status: down
-code: 404
-responseTime: 195
-lastUpdated: 2026-01-02T20:36:10.239Z
+url: $BACKEND_URL/restaurants
+status: up
+code: 204
+responseTime: 2466
+lastUpdated: 2026-01-02T21:34:55.906Z
 startTime: 2026-01-02T19:46:01.191Z
 generator: Upptime <https://github.com/upptime/upptime>
