@@ -1,22 +1,38 @@
 [
   {
-    "name": "Backend for the app",
+    "name": "Backend pour l'application mobile",
     "url": "$BACKEND_URL/restaurants",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "backend-for-the-app",
+    "slug": "backend-pour-l-application-mobile",
     "status": "up",
-    "uptime": "70.89%",
-    "uptimeDay": "70.89%",
-    "uptimeWeek": "70.89%",
-    "uptimeMonth": "70.89%",
-    "uptimeYear": "70.89%",
-    "time": 1295,
-    "timeDay": 1295,
-    "timeWeek": 1295,
-    "timeMonth": 1295,
-    "timeYear": 1295,
-    "dailyMinutesDown": {
-      "2026-01-02": 109
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1827,
+    "timeDay": 1827,
+    "timeWeek": 1827,
+    "timeMonth": 1827,
+    "timeYear": 1827,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Site web",
+    "url": "https://restosolidaires.fr",
+    "icon": "https://icons.duckduckgo.com/ip3/restosolidaires.fr.ico",
+    "slug": "site-web",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
+    "dailyMinutesDown": {}
   }
 ]
