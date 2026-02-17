@@ -6,7 +6,7 @@
     "slug": "backend-pour-l-application-mobile",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1643,
     "timeMonth": 1392,
     "timeYear": 1427,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-17": 0
+    }
   },
   {
     "name": "Site web",
