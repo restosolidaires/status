@@ -6,15 +6,15 @@
     "slug": "backend-pour-l-application-mobile",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "95.46%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.90%",
-    "time": 1463,
-    "timeDay": 2304,
-    "timeWeek": 1747,
-    "timeMonth": 1477,
-    "timeYear": 1463,
+    "time": 1469,
+    "timeDay": 1806,
+    "timeWeek": 1717,
+    "timeMonth": 1520,
+    "timeYear": 1469,
     "dailyMinutesDown": {
       "2026-02-17": 65
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 473,
-    "timeDay": 474,
-    "timeWeek": 478,
-    "timeMonth": 536,
-    "timeYear": 473,
+    "time": 474,
+    "timeDay": 519,
+    "timeWeek": 467,
+    "timeMonth": 540,
+    "timeYear": 474,
     "dailyMinutesDown": {}
   }
 ]
