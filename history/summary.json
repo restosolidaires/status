@@ -24,9 +24,9 @@
     "url": "https://restosolidaires.fr",
     "icon": "https://icons.duckduckgo.com/ip3/restosolidaires.fr.ico",
     "slug": "site-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
@@ -36,6 +36,7 @@
     "timeMonth": 675,
     "timeYear": 549,
     "dailyMinutesDown": {
+      "2026-03-19": 0,
       "2026-03-06": 28
     }
   }
