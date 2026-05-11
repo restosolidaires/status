@@ -1,7 +1,7 @@
 url: $BACKEND_URL/restaurants
 status: up
 code: 204
-responseTime: 2016
-lastUpdated: 2026-05-10T23:41:54.955Z
+responseTime: 1774
+lastUpdated: 2026-05-11T23:49:36.514Z
 startTime: 2026-01-03T10:05:08.349Z
 generator: Upptime <https://github.com/upptime/upptime>
