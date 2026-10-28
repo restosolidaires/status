@@ -24,12 +24,12 @@
     "url": "https://restosolidaires.fr",
     "icon": "https://icons.duckduckgo.com/ip3/restosolidaires.fr.ico",
     "slug": "site-web",
-    "status": "up",
-    "uptime": "68.31%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "36.70%",
-    "uptimeMonth": "9.83%",
-    "uptimeYear": "68.31%",
+    "status": "down",
+    "uptime": "68.32%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "38.00%",
+    "uptimeMonth": "10.12%",
+    "uptimeYear": "68.32%",
     "time": 455,
     "timeDay": 1084,
     "timeWeek": 623,
@@ -132,7 +132,8 @@
       "2026-07-26": 1440,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
-      "2026-07-23": 1012
+      "2026-07-23": 1012,
+      "2026-10-28": 0
     }
   }
 ]
